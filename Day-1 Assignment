@@ -1,0 +1,27 @@
+Blockchain Assignment 1:
+
+Q.1 What is your understanding of Blockchain?
+Ans: Blockchain is a mix of technology – Distributed database & Cryptography is a permanent digital ledger of series of block with immutable data.
+
+Q.2 What is the core problem Blockchain trying to solve?
+Ans: Problem solved by Blockchain are
+1. Authenticity
+2. Security
+3. Need of powerful 3rd party for trust
+
+Q.3 What are the few features of the Blockchain that you will mention?
+Ans: Features of the Blockchain
+1. No Hacking
+2. Huge security boost
+3. Verifiable
+5. Data Transparency
+6. Decentralized
+
+Q.4 What all things Block contains?
+Ans: Block contains
+1. Block Number
+2. Transaction records
+3. Previous Block fingerprint
+
+Q.5 How is the verifiability of Blockchain being attained?
+Ans: The data stored in each block is copied to/distributed among millions of other storage units. So if any data is changed in anyone storage, the data can be verified by comparing it with other millions of copies that exist.
